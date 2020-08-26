@@ -5,4 +5,4 @@ Another feature (reserved only for the Noun+Verb and All Three generators) is by
 will generate another number from the first list. Those strings and calculations are then inserted/applied into various text objects. There is also a function named "generate"
 that is called whenever the scene starts or the "generate button"  is pressed
 The scene switcher script is a script for the main menu that tells Unity which scene to navigate to when you press the various buttons on the menu.
-The main difference between Gen and Gen3 is that Gen uses two lists, while Gen3 uses three.
+The main difference between Gen and Gen3 is that Gen uses two lists for generation, while Gen3 uses three.
