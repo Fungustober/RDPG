@@ -1,4 +1,7 @@
 These are the scripts for the Windows and Mac versions (the downloadable versions). The way the Gen scripts function is by grabbing txt files and turning them into lists. 
 Then, they use those lists to get a random number between 0 and the max count for that list, including 0 and using those numbers to get a string from the list. 
-It will also do other calculations depending on other factors, such as whether the first letter of the first word (the string gotten from the first list) is a vowel or not. Another feature (reserved only for the Noun+Verb and All Three generators) is by having a "+" at the beginning of a line in the txt file that the Gen scripts grab, the program will generate another number from the first list. Those strings and calculations are then inserted/applied into various text objects. There is also a function named "generate" that is called whenever the scene starts or the "generate button"  is pressed
+It will also do other calculations depending on other factors, such as whether the first letter of the first word (the string gotten from the first list) is a vowel or not.
+Another feature (reserved only for the Noun+Verb and All Three generators) is by having a "+" at the beginning of a line in the txt file that the Gen scripts grab, the program
+will generate another number from the first list. Those strings and calculations are then inserted/applied into various text objects. There is also a function named "generate"
+that is called whenever the scene starts or the "generate button"  is pressed
 The scene switcher script is a script for the main menu that tells Unity which scene to navigate to when you press the various buttons on the menu.
