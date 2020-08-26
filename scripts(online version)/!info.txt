@@ -1,3 +1,4 @@
 The scripts within this file act mostly the same as the ones in the Win/Mac version, except instead of the Gen scripts grabbing a txt file, the scripts 
 grab giant strings from scripts attached to the canvas (the scripts being nothing more than souped up versions of the txt files in the Win/Mac version). 
 I'm sure that it's terribly inefficient, but it works, and that's all I need it to do.
+Different words in the scripts are demarcated by "pipes" (These things: | ) instead of newline characters liek they are in the Win/Mac version
