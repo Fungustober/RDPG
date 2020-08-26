@@ -1,0 +1,2 @@
+The scripts within this file act mostly the same as the ones in the Win/Mac version, except instead of the Gen scripts grabbing a txt file, the scripts 
+grab giant strings from inside scripts attached to the canvas. I'm sure that it's terribly inefficient, but it works, and that's all I need it to do.
